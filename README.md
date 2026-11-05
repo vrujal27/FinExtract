@@ -316,8 +316,4 @@ FinExtract demonstrates the integration of:
 - Excel/CSV report generation
 - Docker-based application deployment
 
----
 
-## License
-
-Add the license specified by your assessment or institution. If no license has been assigned, the repository is currently provided without an explicit open-source license.
