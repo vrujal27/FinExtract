@@ -3,7 +3,7 @@
 
 FinExtract is a privacy-focused financial document processing application that converts bank statement PDFs into structured, normalized, categorized, and reviewable transaction data. It combines PDF text extraction, OCR, layout-aware parsing, financial validation, hybrid transaction classification, analytics, and Excel/CSV export in one Streamlit interface.
 
-> **Project submission:** Befree AI & Automation Assessment  
+> 
 > **Core principle:** Deterministic, non-LLM processing. Financial statement data is not sent to external generative AI services by the application.
 
 ---
